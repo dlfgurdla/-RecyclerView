@@ -15,7 +15,7 @@ import com.cos.viewtest.model.Person;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//d
 // 2.어댑터 만들기 (extends)
 public class PersonAdapter extends RecyclerView.Adapter<PersonAdapter.MyViewHolder> {
 
